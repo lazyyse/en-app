@@ -1,0 +1,152 @@
+[
+  {
+    "id": "GO_001",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "She has been working here for five years.",
+    "words": ["She", "has", "been", "working", "here", "for", "five", "years"],
+    "translation": "彼女はここで5年間働いています。",
+    "explanation": "現在完了進行形「has been + 動詞ing」は、過去から現在まで継続している動作を表します。",
+    "xpReward": 10
+  },
+  {
+    "id": "GO_002",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "The meeting will have finished by noon.",
+    "words": ["The", "meeting", "will", "have", "finished", "by", "noon"],
+    "translation": "会議は正午までに終わっているでしょう。",
+    "explanation": "未来完了形「will have + 過去分詞」は、未来のある時点までに完了する動作を表します。",
+    "xpReward": 10
+  },
+  {
+    "id": "GO_003",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "I had already left when he called.",
+    "words": ["I", "had", "already", "left", "when", "he", "called"],
+    "translation": "彼が電話したとき、私はすでに出発していた。",
+    "explanation": "過去完了形「had + 過去分詞」は、過去のある時点よりも前に完了した動作を表します。",
+    "xpReward": 10
+  },
+  {
+    "id": "GO_004",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "They are going to launch a new product next month.",
+    "words": ["They", "are", "going", "to", "launch", "a", "new", "product", "next", "month"],
+    "translation": "彼らは来月新製品を発売する予定です。",
+    "explanation": "「be going to + 動詞の原形」は、計画・意図している未来の行動を表します。",
+    "xpReward": 10
+  },
+  {
+    "id": "GO_005",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "The report was submitted before the deadline.",
+    "words": ["The", "report", "was", "submitted", "before", "the", "deadline"],
+    "translation": "報告書は締め切り前に提出された。",
+    "explanation": "受動態「was + 過去分詞」は、誰かによって動作がなされたことを表します。",
+    "xpReward": 10
+  },
+  {
+    "id": "GO_006",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "We have not received your payment yet.",
+    "words": ["We", "have", "not", "received", "your", "payment", "yet"],
+    "translation": "まだお支払いを受け取っておりません。",
+    "explanation": "現在完了形の否定「have not + 過去分詞」+ yet で、まだ完了していない動作を表します。",
+    "xpReward": 10
+  },
+  {
+    "id": "GO_007",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "By the time you arrive, I will be sleeping.",
+    "words": ["By", "the", "time", "you", "arrive", "I", "will", "be", "sleeping"],
+    "translation": "あなたが到着するころ、私は眠っているでしょう。",
+    "explanation": "未来進行形「will be + 動詞ing」は、未来のある時点に進行中の動作を表します。",
+    "xpReward": 10
+  },
+  {
+    "id": "GO_008",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "She was reading a document when I entered.",
+    "words": ["She", "was", "reading", "a", "document", "when", "I", "entered"],
+    "translation": "私が入ったとき、彼女は書類を読んでいた。",
+    "explanation": "過去進行形「was + 動詞ing」は、過去のある時点に進行中だった動作を表します。",
+    "xpReward": 10
+  },
+  {
+    "id": "GO_009",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "The new policy will be announced tomorrow.",
+    "words": ["The", "new", "policy", "will", "be", "announced", "tomorrow"],
+    "translation": "新しい方針は明日発表される予定です。",
+    "explanation": "未来受動態「will be + 過去分詞」は、未来に誰かによってなされる動作を表します。",
+    "xpReward": 10
+  },
+  {
+    "id": "GO_010",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "He has worked for this company since 2010.",
+    "words": ["He", "has", "worked", "for", "this", "company", "since", "2010"],
+    "translation": "彼は2010年からこの会社で働いています。",
+    "explanation": "現在完了形 + since で、過去のある時点から現在まで継続している状態を表します。",
+    "xpReward": 10
+  },
+  {
+    "id": "GO_011",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "The client had complained before we fixed the bug.",
+    "words": ["The", "client", "had", "complained", "before", "we", "fixed", "the", "bug"],
+    "translation": "バグを修正する前に、クライアントはすでにクレームを入れていた。",
+    "explanation": "過去完了形は、2つの過去の出来事のうち、より前に起きた出来事に使います。",
+    "xpReward": 10
+  },
+  {
+    "id": "GO_012",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "They have been negotiating for three hours.",
+    "words": ["They", "have", "been", "negotiating", "for", "three", "hours"],
+    "translation": "彼らは3時間交渉し続けています。",
+    "explanation": "現在完了進行形は、過去から現在まで継続している動作に使います。for + 期間 と組み合わせることが多いです。",
+    "xpReward": 10
+  },
+  {
+    "id": "GO_013",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "Please let me know if you need any assistance.",
+    "words": ["Please", "let", "me", "know", "if", "you", "need", "any", "assistance"],
+    "translation": "何かお手伝いが必要でしたら、お知らせください。",
+    "explanation": "「let + 人 + 動詞の原形」は「〜に…させる」という使役表現です。ビジネスメールで頻出します。",
+    "xpReward": 10
+  },
+  {
+    "id": "GO_014",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "The contract must be signed by both parties.",
+    "words": ["The", "contract", "must", "be", "signed", "by", "both", "parties"],
+    "translation": "契約書は両当事者によって署名されなければなりません。",
+    "explanation": "助動詞の受動態「must be + 過去分詞」は義務を表します。",
+    "xpReward": 10
+  },
+  {
+    "id": "GO_015",
+    "type": "word_order",
+    "category": "grammar_tense",
+    "sentence": "I wish I had taken that opportunity.",
+    "words": ["I", "wish", "I", "had", "taken", "that", "opportunity"],
+    "translation": "あのチャンスをつかんでいればよかった。",
+    "explanation": "「I wish + 過去完了形」は、過去の出来事に対する後悔や反実仮想を表します。",
+    "xpReward": 10
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "PP_001", "type": "fill_blank", "category": "prepositions",
+    "sentence": "She is responsible ___ the marketing department.",
+    "answer": "for",
+    "choices": ["for", "of", "to", "with"],
+    "translation": "彼女はマーケティング部門を担当しています。",
+    "explanation": "「responsible for ～」で「〜に責任がある・担当している」という意味です。",
+    "xpReward": 10
+  },
+  {
+    "id": "PP_002", "type": "fill_blank", "category": "prepositions",
+    "sentence": "The report is due ___ Friday.",
+    "answer": "on",
+    "choices": ["on", "at", "by", "in"],
+    "translation": "報告書は金曜日が締め切りです。",
+    "explanation": "曜日の前には「on」を使います。「on Friday（金曜日に）」が基本形です。",
+    "xpReward": 10
+  },
+  {
+    "id": "PP_003", "type": "fill_blank", "category": "prepositions",
+    "sentence": "We will meet ___ 3 p.m. tomorrow.",
+    "answer": "at",
+    "choices": ["at", "on", "in", "by"],
+    "translation": "明日の午後3時に会いましょう。",
+    "explanation": "具体的な時刻の前には「at」を使います。「at 3 p.m.（午後3時に）」が基本形です。",
+    "xpReward": 10
+  },
+  {
+    "id": "PP_004", "type": "fill_blank", "category": "prepositions",
+    "sentence": "The conference will be held ___ April.",
+    "answer": "in",
+    "choices": ["in", "on", "at", "during"],
+    "translation": "会議は4月に開催される予定です。",
+    "explanation": "月・年・季節の前には「in」を使います。「in April（4月に）」が基本形です。",
+    "xpReward": 10
+  },
+  {
+    "id": "PP_005", "type": "fill_blank", "category": "prepositions",
+    "sentence": "Please submit the form ___ the deadline.",
+    "answer": "by",
+    "choices": ["by", "until", "before", "at"],
+    "translation": "期限までにフォームを提出してください。",
+    "explanation": "「by + 時点」は「〜までに（完了）」を表します。「until」は継続動作、「by」は完了期限です。",
+    "xpReward": 10
+  },
+  {
+    "id": "PP_006", "type": "fill_blank", "category": "prepositions",
+    "sentence": "The office is located ___ the fifth floor.",
+    "answer": "on",
+    "choices": ["on", "in", "at", "to"],
+    "translation": "オフィスは5階にあります。",
+    "explanation": "フロア（階）の前には「on」を使います。「on the fifth floor（5階に）」が基本形です。",
+    "xpReward": 10
+  },
+  {
+    "id": "PP_007", "type": "fill_blank", "category": "prepositions",
+    "sentence": "He graduated ___ university last year.",
+    "answer": "from",
+    "choices": ["from", "of", "at", "in"],
+    "translation": "彼は昨年大学を卒業しました。",
+    "explanation": "「graduate from ～」で「〜を卒業する」という意味です。",
+    "xpReward": 10
+  },
+  {
+    "id": "PP_008", "type": "fill_blank", "category": "prepositions",
+    "sentence": "The results depend ___ how hard you work.",
+    "answer": "on",
+    "choices": ["on", "of", "by", "from"],
+    "translation": "結果はあなたの努力次第です。",
+    "explanation": "「depend on ～」で「〜次第である・〜に依存する」という意味です。TOEICで頻出のイディオムです。",
+    "xpReward": 10
+  },
+  {
+    "id": "PP_009", "type": "fill_blank", "category": "prepositions",
+    "sentence": "She specializes ___ financial planning.",
+    "answer": "in",
+    "choices": ["in", "on", "at", "for"],
+    "translation": "彼女はファイナンシャルプランニングを専門としています。",
+    "explanation": "「specialize in ～」で「〜を専門とする」という意味です。",
+    "xpReward": 10
+  },
+  {
+    "id": "PP_010", "type": "fill_blank", "category": "prepositions",
+    "sentence": "The store is open ___ 9 a.m. to 6 p.m.",
+    "answer": "from",
+    "choices": ["from", "between", "during", "since"],
+    "translation": "その店は午前9時から午後6時まで営業しています。",
+    "explanation": "「from ～ to ～」で「〜から〜まで」という時間の範囲を表します。",
+    "xpReward": 10
+  },
+  {
+    "id": "PP_011", "type": "fill_blank", "category": "prepositions",
+    "sentence": "I am not familiar ___ this software.",
+    "answer": "with",
+    "choices": ["with", "to", "of", "about"],
+    "translation": "私はこのソフトウェアに詳しくありません。",
+    "explanation": "「familiar with ～」で「〜に精通している・慣れている」という意味です。",
+    "xpReward": 10
+  },
+  {
+    "id": "PP_012", "type": "fill_blank", "category": "prepositions",
+    "sentence": "Please fill in the blanks ___ pencil.",
+    "answer": "with",
+    "choices": ["with", "by", "in", "using"],
+    "translation": "鉛筆で空欄を埋めてください。",
+    "explanation": "道具・手段を表すときは「with」を使います。「write with a pen（ペンで書く）」も同じパターンです。",
+    "xpReward": 10
+  },
+  {
+    "id": "PP_013", "type": "fill_blank", "category": "prepositions",
+    "sentence": "The meeting was canceled due ___ bad weather.",
+    "answer": "to",
+    "choices": ["to", "of", "for", "by"],
+    "translation": "悪天候のため会議が中止になりました。",
+    "explanation": "「due to ～」で「〜のために・〜が原因で」という意味の前置詞句です。TOEICで非常によく出ます。",
+    "xpReward": 10
+  },
+  {
+    "id": "PP_014", "type": "fill_blank", "category": "prepositions",
+    "sentence": "We are interested ___ your proposal.",
+    "answer": "in",
+    "choices": ["in", "at", "with", "for"],
+    "translation": "私たちはあなたの提案に興味があります。",
+    "explanation": "「interested in ～」で「〜に興味がある」という意味です。",
+    "xpReward": 10
+  },
+  {
+    "id": "PP_015", "type": "fill_blank", "category": "prepositions",
+    "sentence": "The package was delivered ___ mistake.",
+    "answer": "by",
+    "choices": ["by", "in", "with", "on"],
+    "translation": "荷物は誤って配達されました。",
+    "explanation": "「by mistake（間違って）」「by accident（偶然に）」「by chance（たまたま）」は「by」を使うイディオムです。",
+    "xpReward": 10
+  }
+]

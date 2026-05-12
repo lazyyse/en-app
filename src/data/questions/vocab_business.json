@@ -1,0 +1,167 @@
+[
+  {
+    "id": "FB_001",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "Please ___ the attached document before our meeting.",
+    "answer": "review",
+    "choices": ["review", "remove", "replace", "reflect"],
+    "translation": "会議前に添付書類を確認してください。",
+    "explanation": "「review」は書類や資料を「確認・精査する」という意味のビジネス頻出動詞です。",
+    "xpReward": 10
+  },
+  {
+    "id": "FB_002",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "The project deadline has been ___ to next Friday.",
+    "answer": "postponed",
+    "choices": ["postponed", "promoted", "processed", "proposed"],
+    "translation": "プロジェクトの締め切りは来週金曜日に延期されました。",
+    "explanation": "「postponed」は「延期された」という意味で、be postponed to ～ の形でよく使われます。",
+    "xpReward": 10
+  },
+  {
+    "id": "FB_003",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "Could you ___ the meeting to next Tuesday?",
+    "answer": "reschedule",
+    "choices": ["reschedule", "reconsider", "reduce", "respond"],
+    "translation": "会議を来週火曜日に変更していただけますか？",
+    "explanation": "「reschedule」は予定を「変更する・組み直す」という意味です。TOEICでよく出る動詞です。",
+    "xpReward": 10
+  },
+  {
+    "id": "FB_004",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "We need to ___ the budget for next quarter.",
+    "answer": "allocate",
+    "choices": ["allocate", "accelerate", "achieve", "attract"],
+    "translation": "次四半期の予算を割り当てる必要があります。",
+    "explanation": "「allocate」は資金・リソースを「割り当てる・配分する」という意味です。",
+    "xpReward": 10
+  },
+  {
+    "id": "FB_005",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "The manager will ___ the new employee's performance.",
+    "answer": "evaluate",
+    "choices": ["evaluate", "eliminate", "estimate", "execute"],
+    "translation": "マネージャーは新入社員の業績を評価するでしょう。",
+    "explanation": "「evaluate」は「評価する・査定する」という意味で、performance evaluation（業績評価）の形でも頻出です。",
+    "xpReward": 10
+  },
+  {
+    "id": "FB_006",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "The team decided to ___ the launch date by two weeks.",
+    "answer": "delay",
+    "choices": ["delay", "deliver", "demand", "depend"],
+    "translation": "チームはローンチ日を2週間遅らせることにしました。",
+    "explanation": "「delay」は「遅らせる・延期する」という意味です。postpone と同義でよく使われます。",
+    "xpReward": 10
+  },
+  {
+    "id": "FB_007",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "We are pleased to ___ that you have been selected.",
+    "answer": "inform",
+    "choices": ["inform", "invite", "inspect", "involve"],
+    "translation": "あなたが選ばれたことをお知らせできて光栄です。",
+    "explanation": "「inform」は「知らせる・通知する」という意味で、We are pleased to inform you that... はビジネスメールの定番表現です。",
+    "xpReward": 10
+  },
+  {
+    "id": "FB_008",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "Please ___ this form and return it by Monday.",
+    "answer": "complete",
+    "choices": ["complete", "compare", "confirm", "connect"],
+    "translation": "このフォームに記入して月曜日までに返送してください。",
+    "explanation": "「complete」はフォームや書類を「記入する・完成させる」という意味で使われます。",
+    "xpReward": 10
+  },
+  {
+    "id": "FB_009",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "The company will ___ its services to the Asian market.",
+    "answer": "expand",
+    "choices": ["expand", "explain", "export", "expire"],
+    "translation": "その会社はサービスをアジア市場に拡大する予定です。",
+    "explanation": "「expand」は事業やサービスを「拡大する・拡張する」という意味です。",
+    "xpReward": 10
+  },
+  {
+    "id": "FB_010",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "I would like to ___ a meeting for this Thursday.",
+    "answer": "arrange",
+    "choices": ["arrange", "announce", "apply", "avoid"],
+    "translation": "今週木曜日に会議を設定したいと思います。",
+    "explanation": "「arrange」は会議や予定を「手配する・設定する」という意味で、set up と同義で使われます。",
+    "xpReward": 10
+  },
+  {
+    "id": "FB_011",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "The sales figures ___ our expectations this quarter.",
+    "answer": "exceeded",
+    "choices": ["exceeded", "excluded", "examined", "expressed"],
+    "translation": "今四半期の売上高は我々の予想を上回りました。",
+    "explanation": "「exceed」は「超える・上回る」という意味で、exceed expectations（期待を上回る）は頻出表現です。",
+    "xpReward": 10
+  },
+  {
+    "id": "FB_012",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "We need to ___ the issue as soon as possible.",
+    "answer": "address",
+    "choices": ["address", "advise", "adjust", "adopt"],
+    "translation": "できるだけ早くその問題に対処する必要があります。",
+    "explanation": "「address」には「対処する・取り組む」という意味があり、address the issue / problem の形でよく使われます。",
+    "xpReward": 10
+  },
+  {
+    "id": "FB_013",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "The manager asked us to ___ the monthly report by Friday.",
+    "answer": "submit",
+    "choices": ["submit", "support", "suggest", "select"],
+    "translation": "マネージャーは月次報告書を金曜日までに提出するよう求めました。",
+    "explanation": "「submit」は書類やレポートを「提出する」という意味の基本ビジネス動詞です。",
+    "xpReward": 10
+  },
+  {
+    "id": "FB_014",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "The two companies agreed to ___ on the new project.",
+    "answer": "collaborate",
+    "choices": ["collaborate", "compete", "complain", "calculate"],
+    "translation": "2社は新プロジェクトで協力することに合意しました。",
+    "explanation": "「collaborate」は「協力する・共同作業する」という意味で、collaborate on ～ の形をとります。",
+    "xpReward": 10
+  },
+  {
+    "id": "FB_015",
+    "type": "fill_blank",
+    "category": "vocab_business",
+    "sentence": "Could you ___ the price for a bulk order?",
+    "answer": "negotiate",
+    "choices": ["negotiate", "notice", "nominate", "navigate"],
+    "translation": "まとめ注文の価格を交渉していただけますか？",
+    "explanation": "「negotiate」は価格や条件を「交渉する」という意味で、TOEICでよく出る単語です。",
+    "xpReward": 10
+  }
+]

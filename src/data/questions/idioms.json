@@ -1,0 +1,137 @@
+[
+  {
+    "id": "ID_001", "type": "fill_blank", "category": "idioms",
+    "sentence": "We need to ___ up with a new strategy.",
+    "answer": "come",
+    "choices": ["come", "make", "take", "bring"],
+    "translation": "新しい戦略を考え出す必要があります。",
+    "explanation": "「come up with ～」で「〜を考え出す・思いつく」という意味のイディオムです。",
+    "xpReward": 10
+  },
+  {
+    "id": "ID_002", "type": "fill_blank", "category": "idioms",
+    "sentence": "Please ___ into account the budget constraints.",
+    "answer": "take",
+    "choices": ["take", "put", "keep", "bring"],
+    "translation": "予算の制約を考慮に入れてください。",
+    "explanation": "「take into account ～」で「〜を考慮に入れる」という意味のイディオムです。",
+    "xpReward": 10
+  },
+  {
+    "id": "ID_003", "type": "fill_blank", "category": "idioms",
+    "sentence": "The sales team will ___ out the new campaign.",
+    "answer": "carry",
+    "choices": ["carry", "take", "bring", "pull"],
+    "translation": "営業チームが新しいキャンペーンを実施します。",
+    "explanation": "「carry out ～」で「〜を実施する・遂行する」という意味のイディオムです。",
+    "xpReward": 10
+  },
+  {
+    "id": "ID_004", "type": "fill_blank", "category": "idioms",
+    "sentence": "Let us ___ track of all the expenses.",
+    "answer": "keep",
+    "choices": ["keep", "make", "hold", "take"],
+    "translation": "すべての経費を記録し続けましょう。",
+    "explanation": "「keep track of ～」で「〜を把握し続ける・記録する」という意味のイディオムです。",
+    "xpReward": 10
+  },
+  {
+    "id": "ID_005", "type": "fill_blank", "category": "idioms",
+    "sentence": "We should ___ advantage of this opportunity.",
+    "answer": "take",
+    "choices": ["take", "make", "get", "have"],
+    "translation": "このチャンスを活かすべきです。",
+    "explanation": "「take advantage of ～」で「〜を活用する・利用する」という意味のイディオムです。",
+    "xpReward": 10
+  },
+  {
+    "id": "ID_006", "type": "fill_blank", "category": "idioms",
+    "sentence": "The project is ___ schedule and will finish on time.",
+    "answer": "on",
+    "choices": ["on", "in", "at", "by"],
+    "translation": "プロジェクトは予定通りで、期限内に終わります。",
+    "explanation": "「on schedule（予定通りに）」はビジネスで頻出の表現です。「behind schedule（遅れている）」も覚えましょう。",
+    "xpReward": 10
+  },
+  {
+    "id": "ID_007", "type": "fill_blank", "category": "idioms",
+    "sentence": "Could you ___ me in on the latest developments?",
+    "answer": "fill",
+    "choices": ["fill", "catch", "update", "bring"],
+    "translation": "最新の状況を教えていただけますか？",
+    "explanation": "「fill someone in on ～」で「〜について最新情報を伝える」という意味のイディオムです。",
+    "xpReward": 10
+  },
+  {
+    "id": "ID_008", "type": "fill_blank", "category": "idioms",
+    "sentence": "The manager will ___ over the new employee.",
+    "answer": "look",
+    "choices": ["look", "watch", "check", "go"],
+    "translation": "マネージャーが新入社員を指導・監督します。",
+    "explanation": "「look over」は「〜を監督する」、また「〜をざっと確認する」という意味でも使われます。",
+    "xpReward": 10
+  },
+  {
+    "id": "ID_009", "type": "fill_blank", "category": "idioms",
+    "sentence": "The deal finally ___ through after months of talks.",
+    "answer": "went",
+    "choices": ["went", "came", "fell", "broke"],
+    "translation": "何ヶ月もの交渉の末、取引がついに成立しました。",
+    "explanation": "「go through（成立する・通過する）」はビジネス交渉でよく使われます。「fall through（失敗する）」も対比で覚えましょう。",
+    "xpReward": 10
+  },
+  {
+    "id": "ID_010", "type": "fill_blank", "category": "idioms",
+    "sentence": "We need to ___ up to speed on the new regulations.",
+    "answer": "get",
+    "choices": ["get", "come", "bring", "catch"],
+    "translation": "新しい規制について把握する必要があります。",
+    "explanation": "「get up to speed（最新情報を把握する）」はビジネスでよく使われる表現です。",
+    "xpReward": 10
+  },
+  {
+    "id": "ID_011", "type": "fill_blank", "category": "idioms",
+    "sentence": "Please ___ back to me with your decision.",
+    "answer": "get",
+    "choices": ["get", "come", "write", "reply"],
+    "translation": "ご判断をご連絡ください。",
+    "explanation": "「get back to someone（〜に折り返し連絡する）」はビジネスメール・会話で最頻出のイディオムの一つです。",
+    "xpReward": 10
+  },
+  {
+    "id": "ID_012", "type": "fill_blank", "category": "idioms",
+    "sentence": "The launch event is ___ place next Thursday.",
+    "answer": "taking",
+    "choices": ["taking", "making", "having", "holding"],
+    "translation": "発表イベントは来週木曜日に開催されます。",
+    "explanation": "「take place（開催される・行われる）」は「happen」の改まった表現で、イベント・行事に使います。",
+    "xpReward": 10
+  },
+  {
+    "id": "ID_013", "type": "fill_blank", "category": "idioms",
+    "sentence": "Let us ___ a look at this month's figures.",
+    "answer": "take",
+    "choices": ["take", "have", "make", "give"],
+    "translation": "今月の数字を見てみましょう。",
+    "explanation": "「take a look at ～（〜を見る）」は「look at」よりも丁寧なビジネス表現です。",
+    "xpReward": 10
+  },
+  {
+    "id": "ID_014", "type": "fill_blank", "category": "idioms",
+    "sentence": "The two companies decided to ___ forces.",
+    "answer": "join",
+    "choices": ["join", "unite", "combine", "merge"],
+    "translation": "2社は力を合わせることにしました。",
+    "explanation": "「join forces（力を合わせる・協力する）」はビジネスやニュースでよく使われる表現です。",
+    "xpReward": 10
+  },
+  {
+    "id": "ID_015", "type": "fill_blank", "category": "idioms",
+    "sentence": "We should ___ the ball rolling on this project.",
+    "answer": "get",
+    "choices": ["get", "keep", "start", "set"],
+    "translation": "このプロジェクトに着手しましょう。",
+    "explanation": "「get the ball rolling（物事を始める・開始する）」はビジネス会議でよく使われる表現です。",
+    "xpReward": 10
+  }
+]
