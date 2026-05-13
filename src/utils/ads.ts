@@ -20,13 +20,13 @@ const TEST_IDS = {
 // app.json の androidAppId / iosAppId も同様に本番IDへ変更してください。
 const PROD_IDS = {
   banner: Platform.select({
-    android: 'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX', // TODO: 本番バナーID(Android)
-    ios:     'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX', // TODO: 本番バナーID(iOS)
+    android: 'ca-app-pub-5684305999603503/8916563497',
+    ios:     'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX', // TODO: 本番バナーID(iOS) - iOS展開時に設定
     default: '',
   })!,
   interstitial: Platform.select({
-    android: 'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX', // TODO: 本番インタースティシャルID(Android)
-    ios:     'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX', // TODO: 本番インタースティシャルID(iOS)
+    android: 'ca-app-pub-5684305999603503/5972275341',
+    ios:     'ca-app-pub-XXXXXXXXXXXXXXXX/XXXXXXXXXX', // TODO: 本番インタースティシャルID(iOS) - iOS展開時に設定
     default: '',
   })!,
 };
