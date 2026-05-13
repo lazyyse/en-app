@@ -41,6 +41,10 @@
           "androidAppId": "ca-app-pub-5684305999603503~2010191050",
           "iosAppId": "ca-app-pub-3940256099942544~1458002511"
         }
+      ],
+      [
+        "./plugins/withGooglePlayVerification",
+        "DBFH0O4DSEHDEAAAAAAAAAAAAA"
       ]
     ],
     "extra": {
