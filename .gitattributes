@@ -1,0 +1,18 @@
+# Default behavior
+* text=auto
+
+# Shell scripts must have LF on all platforms
+*.sh text eol=lf
+gradlew text eol=lf
+gradlew.bat text eol=crlf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.jar binary
+*.keystore binary
+*.jks binary
